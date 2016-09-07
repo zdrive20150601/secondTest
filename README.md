@@ -6,6 +6,6 @@
 
 ```composer.html
 
-<html>
+<h1>あああ</h1>
 
 ```
